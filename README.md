@@ -1,15 +1,6 @@
 Distroshare Ubuntu Imager
 =========================
 
-This project is brought to you by distroshare.  Distroshare is 
-a new site for sharing customized open source operating system distributions.  
-Too often do users need to customize open source operating systems, 
-such as Ubuntu, to work correctly on their machines.  By distributing 
-a custom Ubuntu distro with the kinks worked out for your machine, you 
-would be helping others to run Ubuntu if they have the same machine.
-
-
-
 Distroshare Ubuntu Imager creates an installable Live ISO from an installed 
 Ubuntu or derivative distribution.
 
